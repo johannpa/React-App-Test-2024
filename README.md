@@ -31,3 +31,8 @@ npm create vite@4.1.0
 
 ![image](https://github.com/johannpa/React-App-Test-2024/assets/25402983/34e5da64-a427-4605-83e5-05ed4569439d)
 
+Hit "y" and enter, there is a default title for the project but you can change it:
+
+![image](https://github.com/johannpa/React-App-Test-2024/assets/25402983/268d5368-7582-478e-a453-ea4cfd1e4f81)
+
+
