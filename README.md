@@ -59,6 +59,12 @@ or
 npm i
 ```
 
+We need bootstrap :
+
+```shell
+npm i bootstrap@5.2.3
+```
+
 
 
 
